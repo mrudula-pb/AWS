@@ -20,7 +20,10 @@ Ability to run a file-server service using a provider of their choice.
 AREA OF EMPHASIS: (15 UNITS)
 
 CS 79A, Introduction to Cloud Computing (3)
+
 CS 79B, Database Essentials in Amazon Web Services (3)
+
 CS 79C, Compute Engines in Amazon Web Services (3)
+
 CS 79D, Security in Amazon Web Services (3)
 
