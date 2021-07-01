@@ -5,6 +5,7 @@ Cloud computing—which delivers vast data capacity to organizations of all shap
 In just 15 units, SMC’s Cloud Computing Certificate gets students ready to pursue a career in cloud computing and introduces students to AWS technologies. AWS courses cover programming, database management, security, and other essentials
 
 CLOUD COMPUTING, DEPARTMENT CERTIFICATE
+
 This program provides the industry standard skills to understand and develop applications for the cloud.
 
 Students learn a range of topics that cover the technical principals of the hardware and software
@@ -12,6 +13,7 @@ requirements to run systems in the cloud including storage, database management,
 while maintaining secure access.
 
 Program Learning Outcomes:
+
 Ability to host a database and run queries using an interface from a commercial provider.
 Ability to run a file-server service using a provider of their choice.
 
